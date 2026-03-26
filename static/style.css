@@ -1,0 +1,54 @@
+body {
+    background-image: url("farm.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Arial, sans-serif;
+}
+
+.login {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 30px;
+    width: 400px;
+    margin: 100px auto;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+input {
+    width: 90%;
+    padding: 12px;
+    margin: 8px 0;
+    border: none;
+    border-bottom: 2px solid white;
+    background: transparent;
+    color: white;
+}
+
+input::placeholder {
+    color: #ddd;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px;
+    width: 90%;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#predi {
+    margin-top: 20px;
+    color: yellow;
+    font-size: 18px;
+}
