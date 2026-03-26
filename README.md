@@ -1,4 +1,4 @@
-# 🌾 Crop Prediction using Machine Learning (Flask App)
+# 🌾 Crop Prediction System using Machine Learning (Flask App)
 
 ## 📌 Overview
 
